@@ -1,6 +1,6 @@
 #数据库文件不上传
 *.sqlite
-
+mi
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
