@@ -1,5 +1,5 @@
 #数据库文件不上传
-.sqlite
+*.sqlite
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
